@@ -1,0 +1,6 @@
+használat:
+    cipo.sql be importlása az adatbázisba (XAMPP localhost/phpmyadmin), az adatbázis "cipo" néven legyen. (ha mást akarsz ár kell írni az index.js-ben)
+    Visual Studio Code megnyitása,
+    majd a Terminál megnyitása (ctrl + shift + ö)
+    Parancs => npm i 
+    Elinditás (Terminal) => node .
